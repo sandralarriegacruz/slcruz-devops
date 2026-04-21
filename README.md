@@ -1,7 +1,7 @@
 <span align="center">
 
 ## *Hello, welcome to my profile GitHub!*
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#50C878&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Sandra+Larriega.;I'm+from+Peru+and+25+years+old!;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=289C8E&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Sandra+Larriega.;I'm+from+Peru+and+25+years+old!;Be+Welcome!)](https://git.io/typing-svg)
 
 </span>
 
@@ -15,3 +15,9 @@ I am seeking an opportunity as a Junior DevOps Engineer or Cloud Engineer where 
 </span>
 
 #
+<div style="display: inline_block"><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,opencv,anaconda,aws,linux,windows,latex,notion,figma,git,github,gitlab,docker,css,html,js,kubernetes,matlab,mysql,postgres,firebase,py,pytorch,r,tensorflow,ts,v,visualstudio,vscode,npm,yarn,cypress,selenium,postman" />
+  </a>
+</p>          
